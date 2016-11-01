@@ -3,3 +3,12 @@ C:\Users\Ricardo\Documents\Books\WebApi2Book\src\WebApi2BookDb\bin\Debug\WebApi2
 C:\Users\Ricardo\Documents\Books\WebApi2Book\src\WebApi2BookDb\bin\Debug\WebApi2BookDb.pdb
 C:\Users\Ricardo\Documents\Books\WebApi2Book\src\WebApi2BookDb\obj\Debug\WebApi2BookDb.dll
 C:\Users\Ricardo\Documents\Books\WebApi2Book\src\WebApi2BookDb\obj\Debug\WebApi2BookDb.pdb
+C:\Users\Ricardo\Documents\Documents\Books\WebApi2Book\WebApi2Book\src\WebApi2BookDb\bin\Debug\WebApi2BookDb.dacpac
+C:\Users\Ricardo\Documents\Documents\Books\WebApi2Book\WebApi2Book\src\WebApi2BookDb\bin\Debug\WebApi2BookDb.dll
+C:\Users\Ricardo\Documents\Documents\Books\WebApi2Book\WebApi2Book\src\WebApi2BookDb\bin\Debug\WebApi2BookDb.pdb
+C:\Users\Ricardo\Documents\Documents\Books\WebApi2Book\WebApi2Book\src\WebApi2BookDb\obj\Debug\WebApi2BookDb.dll
+C:\Users\Ricardo\Documents\Documents\Books\WebApi2Book\WebApi2Book\src\WebApi2BookDb\obj\Debug\WebApi2BookDb.pdb
+C:\Users\Ricardo\Documents\Documents\Books\WebApi2Book\WebApi2Book\src\WebApi2BookDb\obj\Debug\Model.xml
+C:\Users\Ricardo\Documents\Documents\Books\WebApi2Book\WebApi2Book\src\WebApi2BookDb\obj\Debug\refactor.xml
+C:\Users\Ricardo\Documents\Documents\Books\WebApi2Book\WebApi2Book\src\WebApi2BookDb\obj\Debug\postdeploy.sql
+C:\Users\Ricardo\Documents\Documents\Books\WebApi2Book\WebApi2Book\src\WebApi2BookDb\obj\Debug\predeploy.sql

@@ -2,3 +2,7 @@ C:\Users\Ricardo\Documents\Books\WebApi2Book\src\WebApi2Book.Data.Tests\bin\Debu
 C:\Users\Ricardo\Documents\Books\WebApi2Book\src\WebApi2Book.Data.Tests\bin\Debug\WebApi2Book.Data.Tests.pdb
 C:\Users\Ricardo\Documents\Books\WebApi2Book\src\WebApi2Book.Data.Tests\obj\Debug\WebApi2Book.Data.Tests.dll
 C:\Users\Ricardo\Documents\Books\WebApi2Book\src\WebApi2Book.Data.Tests\obj\Debug\WebApi2Book.Data.Tests.pdb
+C:\Users\Ricardo\Documents\Documents\Books\WebApi2Book\WebApi2Book\src\WebApi2Book.Data.Tests\bin\Debug\WebApi2Book.Data.Tests.dll
+C:\Users\Ricardo\Documents\Documents\Books\WebApi2Book\WebApi2Book\src\WebApi2Book.Data.Tests\bin\Debug\WebApi2Book.Data.Tests.pdb
+C:\Users\Ricardo\Documents\Documents\Books\WebApi2Book\WebApi2Book\src\WebApi2Book.Data.Tests\obj\Debug\WebApi2Book.Data.Tests.dll
+C:\Users\Ricardo\Documents\Documents\Books\WebApi2Book\WebApi2Book\src\WebApi2Book.Data.Tests\obj\Debug\WebApi2Book.Data.Tests.pdb

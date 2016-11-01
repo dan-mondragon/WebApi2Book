@@ -2,3 +2,7 @@ C:\Users\Ricardo\Documents\Books\WebApi2Book\src\WebApi2Book.Web.Api.Integration
 C:\Users\Ricardo\Documents\Books\WebApi2Book\src\WebApi2Book.Web.Api.IntegrationTests\bin\Debug\WebApi2Book.Web.Api.IntegrationTests.pdb
 C:\Users\Ricardo\Documents\Books\WebApi2Book\src\WebApi2Book.Web.Api.IntegrationTests\obj\Debug\WebApi2Book.Web.Api.IntegrationTests.dll
 C:\Users\Ricardo\Documents\Books\WebApi2Book\src\WebApi2Book.Web.Api.IntegrationTests\obj\Debug\WebApi2Book.Web.Api.IntegrationTests.pdb
+C:\Users\Ricardo\Documents\Documents\Books\WebApi2Book\WebApi2Book\src\WebApi2Book.Web.Api.IntegrationTests\bin\Debug\WebApi2Book.Web.Api.IntegrationTests.dll
+C:\Users\Ricardo\Documents\Documents\Books\WebApi2Book\WebApi2Book\src\WebApi2Book.Web.Api.IntegrationTests\bin\Debug\WebApi2Book.Web.Api.IntegrationTests.pdb
+C:\Users\Ricardo\Documents\Documents\Books\WebApi2Book\WebApi2Book\src\WebApi2Book.Web.Api.IntegrationTests\obj\Debug\WebApi2Book.Web.Api.IntegrationTests.dll
+C:\Users\Ricardo\Documents\Documents\Books\WebApi2Book\WebApi2Book\src\WebApi2Book.Web.Api.IntegrationTests\obj\Debug\WebApi2Book.Web.Api.IntegrationTests.pdb

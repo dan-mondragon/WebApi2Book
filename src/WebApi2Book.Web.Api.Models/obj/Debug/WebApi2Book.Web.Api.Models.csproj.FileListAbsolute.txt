@@ -3,3 +3,7 @@ C:\Users\Ricardo\Documents\Books\WebApi2Book\src\WebApi2Book.Web.Api.Models\bin\
 C:\Users\Ricardo\Documents\Books\WebApi2Book\src\WebApi2Book.Web.Api.Models\obj\Debug\WebApi2Book.Web.Api.Models.csprojResolveAssemblyReference.cache
 C:\Users\Ricardo\Documents\Books\WebApi2Book\src\WebApi2Book.Web.Api.Models\obj\Debug\WebApi2Book.Web.Api.Models.dll
 C:\Users\Ricardo\Documents\Books\WebApi2Book\src\WebApi2Book.Web.Api.Models\obj\Debug\WebApi2Book.Web.Api.Models.pdb
+C:\Users\Ricardo\Documents\Documents\Books\WebApi2Book\WebApi2Book\src\WebApi2Book.Web.Api.Models\bin\Debug\WebApi2Book.Web.Api.Models.dll
+C:\Users\Ricardo\Documents\Documents\Books\WebApi2Book\WebApi2Book\src\WebApi2Book.Web.Api.Models\bin\Debug\WebApi2Book.Web.Api.Models.pdb
+C:\Users\Ricardo\Documents\Documents\Books\WebApi2Book\WebApi2Book\src\WebApi2Book.Web.Api.Models\obj\Debug\WebApi2Book.Web.Api.Models.dll
+C:\Users\Ricardo\Documents\Documents\Books\WebApi2Book\WebApi2Book\src\WebApi2Book.Web.Api.Models\obj\Debug\WebApi2Book.Web.Api.Models.pdb

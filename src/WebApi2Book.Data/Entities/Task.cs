@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WebApi2Book.Data.Entities
 {
-    public class Task
+    public class Task : IVersionedEntity
     {
         private readonly IList<User> _users = new List<User>();
         public virtual long TaskId { get; set; }
@@ -14,7 +14,7 @@ namespace WebApi2Book.Data.Entities
         public virtual DateTime? StartDate { get; set; }
         public virtual DateTime? DueDate { get; set; }
         public virtual DateTime? CompletedDate { get; set; }
-        public virtual Status status { get; set; }
+        public virtual Status Status { get; set; }
         public virtual DateTime CreatedDate { get; set; }
         public virtual User CreatedBy { get; set; }
 

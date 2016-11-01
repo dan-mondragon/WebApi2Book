@@ -3,3 +3,7 @@ C:\Users\Ricardo\Documents\Books\WebApi2Book\src\WebApi2Book.Common.Tests\bin\De
 C:\Users\Ricardo\Documents\Books\WebApi2Book\src\WebApi2Book.Common.Tests\obj\Debug\WebApi2Book.Common.Tests.csprojResolveAssemblyReference.cache
 C:\Users\Ricardo\Documents\Books\WebApi2Book\src\WebApi2Book.Common.Tests\obj\Debug\WebApi2Book.Common.Tests.dll
 C:\Users\Ricardo\Documents\Books\WebApi2Book\src\WebApi2Book.Common.Tests\obj\Debug\WebApi2Book.Common.Tests.pdb
+C:\Users\Ricardo\Documents\Documents\Books\WebApi2Book\WebApi2Book\src\WebApi2Book.Common.Tests\bin\Debug\WebApi2Book.Common.Tests.dll
+C:\Users\Ricardo\Documents\Documents\Books\WebApi2Book\WebApi2Book\src\WebApi2Book.Common.Tests\bin\Debug\WebApi2Book.Common.Tests.pdb
+C:\Users\Ricardo\Documents\Documents\Books\WebApi2Book\WebApi2Book\src\WebApi2Book.Common.Tests\obj\Debug\WebApi2Book.Common.Tests.dll
+C:\Users\Ricardo\Documents\Documents\Books\WebApi2Book\WebApi2Book\src\WebApi2Book.Common.Tests\obj\Debug\WebApi2Book.Common.Tests.pdb
